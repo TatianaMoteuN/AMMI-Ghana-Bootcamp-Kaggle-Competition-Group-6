@@ -1,0 +1,4 @@
+/data/updated_google_corpus
+/data/updated_google_corpus.trainables.syn1neg.npy
+/data/updated_google_corpus.wv.vectors.npy
+/data/out*
