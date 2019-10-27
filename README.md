@@ -12,8 +12,8 @@ Given the following features:
 7. designation (String) The vineyard within the winery where the grapes that made the wine are from
 8. taster_name (String) taster name
 9. taster_twitter_handle (String) taster twitter account name
-10. review (String) A few sentences from a sommelier describing the wine's taste, smell, look, feel, etc.
-11. review_score (Numeric) Number of points WineEnthusiast rated the wine on a scale of 1-100
+10. description (String) A few sentences from a sommelier describing the wine's taste, smell, look, feel, etc.
+11. points (Numeric) Number of points WineEnthusiast rated the wine on a scale of 1-100
 
 We need to predict the price (Numeric) The cost for a bottle of wine.
 
